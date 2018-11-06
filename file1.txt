@@ -1,3 +1,11 @@
-init file 1 in master  adutional change 
+init file 1 in master  adutional change 2 adutional change 3
 
 more changes to file 1 
+
+stached change 
+
+
+stached change aemnd
+
+
+stached change aemnd2
